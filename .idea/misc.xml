@@ -5,7 +5,12 @@
       <map>
         <entry key="..\:/Rizki/.JAVA/mobprog_tugas/app/src/main/res/drawable/ic_add.xml" value="0.1245" />
         <entry key="..\:/Rizki/.JAVA/mobprog_tugas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1245" />
-        <entry key="..\:/Rizki/.JAVA/mobprog_tugas/app/src/main/res/layout/activity_content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rizki/.JAVA/mobprog_tugas/app/src/main/res/drawable/list_row_bg.xml" value="0.1" />
+        <entry key="..\:/Rizki/.JAVA/mobprog_tugas/app/src/main/res/drawable/list_row_bg_hover.xml" value="0.1" />
+        <entry key="..\:/Rizki/.JAVA/mobprog_tugas/app/src/main/res/drawable/list_row_selector.xml" value="0.1" />
+        <entry key="..\:/Rizki/.JAVA/mobprog_tugas/app/src/main/res/layout/activity_content_main.xml" value="0.14" />
+        <entry key="..\:/Rizki/.JAVA/mobprog_tugas/app/src/main/res/layout/activity_form_biodata.xml" value="0.22" />
+        <entry key="..\:/Rizki/.JAVA/mobprog_tugas/app/src/main/res/layout/activity_list_row.xml" value="0.1" />
         <entry key="..\:/Rizki/.JAVA/mobprog_tugas/app/src/main/res/layout/activity_main.xml" value="0.18" />
       </map>
     </option>

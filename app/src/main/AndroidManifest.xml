@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mobprog_tugas">
         <activity
+            android:name=".FormBiodata"
+            android:exported="false" />
+        <activity
+            android:name=".ListRow"
+            android:exported="false" />
+        <activity
             android:name=".ContentMain"
             android:exported="false" />
         <activity
